@@ -24,7 +24,7 @@ dvc repro
 ````
 
 ````
-dvc dags
+dvc dag
 ````
 
 for further info https://github.com/sunnysavita10/dvc
