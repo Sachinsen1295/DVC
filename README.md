@@ -23,3 +23,7 @@ create dvc,yaml file and create connents
 dvc repro
 ````
 
+````
+dvc dags
+````
+
